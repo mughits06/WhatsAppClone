@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "253516883893",
+    "firebase_url": "https://whatsappclown.firebaseio.com",
+    "project_id": "whatsappclown",
+    "storage_bucket": "whatsappclown.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253516883893:android:4b292f90657a203ac01bfc",
+        "android_client_info": {
+          "package_name": "com.mughitszufar.whatsappclown"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "253516883893-p34cuoit49p9qofjqv4sd4r0tnnnqn2a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mughitszufar.whatsappclown",
+            "certificate_hash": "614e2ff60e2ba2f788f7f29bb1d99b6f0ed26d16"
+          }
+        },
+        {
+          "client_id": "253516883893-g4kst4irb5irm8sp9pbqqb6i3i2bkj1q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCw3dgCVL0zih66YsbU2rLJD7KkpGqHCdg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "253516883893-g4kst4irb5irm8sp9pbqqb6i3i2bkj1q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
